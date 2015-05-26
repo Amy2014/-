@@ -1,0 +1,35 @@
+<style type='text/css'>
+
+ div{
+
+            text-align: center;
+
+            font-size: 32px;
+
+            width: 500px;
+
+            color: white;
+
+            padding: 10px;
+
+            margin: 10px;
+
+            -webkit-border-radius: 15px;
+
+            -moz-border-radius: 15px;
+
+}
+
+</style>
+
+<body>
+
+<div>
+
+一些内容
+
+</div>
+
+</body>
+
+        }
